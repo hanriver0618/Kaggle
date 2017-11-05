@@ -2,7 +2,7 @@
 
 This is one of the kaggle competitions.
 
-## Competition Description ([from kaggle web site]((https://www.kaggle.com/c/nyc-taxi-trip-duration)))
+## Competition Description ([from kaggle web site])
 
 In this competition, Kaggle is challenging you to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
 
@@ -18,4 +18,4 @@ The competition dataset is based on the 2016 NYC Yellow Cab trip record data mad
 train.csv - the training set (contains 1458644 trip records)  
 test.csv - the testing set (contains 625134 trip records)
 
-* This folder doesn't include the data files because of the limitation of size. You can directly assess the kaggle website for downloading the files.
+* This folder doesn't include the data files because of the limitation of size. You can directly assess the kaggle website for downloading the files (https://www.kaggle.com/c/nyc-taxi-trip-duration).
